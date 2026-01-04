@@ -8,7 +8,7 @@ High-resolution image reconstruction from coarse-resolution multi-source inputs 
 
 ## Dataset
 
-* Multi-source geospatial datasets (Dataset B)
+* Multi-source geospatial datasets
 * Coarse-resolution inputs combined with auxiliary constraint variables
 * Target resolution: coarse (~10–50 km) → fine (~500 m)
 * Temporal split for training and testing to ensure generalization
